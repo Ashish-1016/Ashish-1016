@@ -15,9 +15,6 @@ Front-end/ Full Stack Developer<br>I love to React
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Ashish-1016&icon=0&color=1)](https://visitcount.itsvg.in)
 
