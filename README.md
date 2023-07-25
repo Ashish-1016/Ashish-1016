@@ -1,5 +1,7 @@
 # 💫 Ashish Jeswani:
-Front-end & Full Stack Developer<br>I love to React
+# Front-end & Full Stack Developer 
+I love to
+# React
 
 
 ## 🌐 Socials:
